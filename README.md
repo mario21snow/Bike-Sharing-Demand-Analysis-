@@ -1,6 +1,6 @@
 # Bike Sharing Demand Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/P77bDN7qAlc
+
 
 # Dataset Information
 
